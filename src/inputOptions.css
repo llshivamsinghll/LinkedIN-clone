@@ -1,0 +1,17 @@
+.inputOption{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color:gray;
+    margin-top:3px;
+    margin-bottom:3px;
+    padding-left: 18px;
+    padding-right: 18px;
+   
+}
+.inputOption:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}

@@ -5,6 +5,7 @@
  justify-content: space-evenly;
  border-bottom: 0.1px solid lightgray;
  padding-top: 10px;
+ align-items: center;
 
 }
 .header_left{

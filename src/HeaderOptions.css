@@ -9,7 +9,9 @@
     
 }
 .headerOption > .headerOption_icon{
-  margin-bottom: -20px;
+  margin-bottom: -25px;
+  height: 35px;
+  
 }
 .headerOption:hover{
     color:black;
